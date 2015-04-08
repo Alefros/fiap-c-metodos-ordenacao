@@ -3,6 +3,7 @@
 	<FileVersion major="1" minor="6" />
 	<Project>
 		<Option title="metodosOrdenacao" />
+		<Option execution_dir="F:/Métodos De Ordenação/metodosOrdenacao_Atualizado_130415/" />
 		<Option pch_mode="2" />
 		<Option compiler="gcc" />
 		<Build>
